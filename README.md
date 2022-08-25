@@ -39,7 +39,7 @@ We also have to add " Child node " because intracting with different users will 
 
 Or 
 
-2- Chooseing our assistant and click on " merge " to try it 
+2- Choosing our assistant and click on " merge " to try it 
 
 
 
